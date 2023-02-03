@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">OrderingAutoParts</string>
+
+    // For MainActivity
+    <string name="headerText">Choose part</string>
+    <string name="enterName">Enter your name</string>
+    <string name="contactNumber">Phone (xxx) xxx xx xx</string>
+    <string name="chooseCar">Choose car</string>
+    <string name="chooseModel">Choose model</string>
+    <string name="yourOrder">Your order</string>
+
+    <string-array name="cars">
+        <item>Nissan</item>
+        <item>Honda</item>
+        <item>Acura</item>
+        <item>Toyota</item>
+    </string-array>
+
+    <string-array name="nissan_models">
+        <item>Altima</item>
+        <item>Maxima</item>
+        <item>Note</item>
+        <item>Pathfinder</item>
+        <item>Rogue</item>
+    </string-array>
+
+    <string-array name="honda_models">
+        <item>Accord</item>
+        <item>Civic</item>
+        <item>Pilot</item>
+    </string-array>
+
+    <string-array name="acura_models">
+        <item>MDX</item>
+        <item>RDX</item>
+        <item>TLX</item>
+    </string-array>
+
+    <string-array name="toyota_models">
+        <item>Camry</item>
+        <item>Corolla</item>
+        <item>RAV-4</item>
+    </string-array>
+
+</resources>
